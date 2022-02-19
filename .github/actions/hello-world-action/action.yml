@@ -1,0 +1,8 @@
+name: hello-world
+description: hello world
+
+inputs:
+  message:
+    description: 'given message to echo'
+    requited: false
+    default: 'binary chopin'
